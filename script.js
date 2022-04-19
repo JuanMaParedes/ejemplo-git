@@ -1,0 +1,1 @@
+console.log("Ahora estoy en la consola, q te parece?")
